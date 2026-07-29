@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "WPopoff",
+            "link": "https://youtu.be/hJHiGeuahTI?si=y7HeTTY1fw45MoYf",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
