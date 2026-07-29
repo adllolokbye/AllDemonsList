@@ -1,8 +1,13 @@
 [
     {
         "role": "owner",
-        "name": "Jaiko, Yoink",
-        "link": "https://www.youtube.com/@jaiko123-z7m, https://www.youtube.com/@yYoinkGD"
+        "name": "Jaiko",
+        "link": "https://www.youtube.com/@jaiko123-z7m"
+    },
+    {
+        "role": "owner",
+        "name": "Yoink",
+        "link": "https://www.youtube.com/@yYoinkGD"
     },
     {
         "role": "admin",
