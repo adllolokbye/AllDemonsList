@@ -16,13 +16,13 @@
     },
     {
         "role": "helper",
-        "name": "Setharius (Helper)",
+        "name": "Setharius (List Staff)",
         "link": "https://www.youtube.com/channel/UCqPkntrA9kUNoJxcF8cn4aA"
     },
     {
-        "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "helper",
+        "name": "ErrorWinters (List Staff)",
+        "link": "https://www.youtube.com/@Errorwinters/videos"
     },
     {
         "role": "dev",
