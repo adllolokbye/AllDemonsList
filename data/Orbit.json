@@ -15,6 +15,18 @@
             "link": "https://www.youtube.com/watch?v=0QYibxUS3rA",
             "percent": 100,
             "hz": 240
+        },
+          {
+            "user": "Thelifinof",
+            "link": "https://www.youtube.com/watch?v=EoJlgQbmEdM",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "PH23NIX",
+            "link": "https://www.youtube.com/watch?v=-NrOlPqIYfE",
+            "percent": 77,
+            "hz": 240
         }
     ]
 }
