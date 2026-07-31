@@ -4,6 +4,7 @@
     "author": "Narwall",
     "creators": ["Narwall"],
     "verifier": "Cuatrocientos",
+    "tags": ["2.2", "Learny", "Chokepoints", "Nerve Control", "Overall"],
     "verification": "https://www.youtube.com/watch?v=x4Io4zkWVRw",
     "percentToQualify": "100",
     "password": "46290",
@@ -18,7 +19,13 @@
             "user": "zLevii",
             "link": "https://www.youtube.com/watch?v=LCd1aljMPWs",
             "percent": 100,
-            "hz": 120
+            "hz": 240
+        },
+        {
+            "user": "Laysah",
+            "link": "https://www.youtube.com/watch?v=W2yLCl00LHk",
+            "percent": 74,
+            "hz": 240
         }
     ]
 }
