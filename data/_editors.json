@@ -1,22 +1,22 @@
 [
     {
         "role": "owner",
-        "name": "Jaiko",
+        "name": "Jaiko (Owner)",
         "link": "https://www.youtube.com/@jaiko123-z7m"
     },
     {
         "role": "owner",
-        "name": "Yoink",
+        "name": "Yoink (Owner)",
         "link": "https://www.youtube.com/@yYoinkGD"
     },
     {
         "role": "admin",
-        "name": "Asta",
+        "name": "Asta (Admin)",
         "link": "https://www.youtube.com/@Asta12-c5c"
     },
     {
         "role": "helper",
-        "name": "Setharius",
+        "name": "Setharius (Helper)",
         "link": "https://www.youtube.com/channel/UCqPkntrA9kUNoJxcF8cn4aA"
     },
     {
@@ -26,7 +26,7 @@
     },
     {
         "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Setharius (Dev)",
+        "link": "https://www.youtube.com/channel/UCqPkntrA9kUNoJxcF8cn4aA"
     }
 ]
