@@ -1,1 +1,20 @@
-
+{
+    "id": 127323087,
+    "name": "Society",
+    "author": "Mindcap",
+    "creators": ["Djoxy", "Pennutoh", "Wesp", "Zephlin", "Epxa", "HugoLa", "melsGD", "Helpegasus", "Knots", "ZrKiphal", "Th04", "voltex", "Goober_194", "AudieoVisual", "Deadlox", "Empsea", "HDanke", "iKrazo", "Apunch", "Whippie37", "MindCap", "Don", "knobbelboy", "kekchungle44", "Classic10", "SmitN", "TyphoonThunder", "-", "Pegasusz"
+],
+    "verifier": "Zoink",
+    "tags": ["2.2", "Fast-Paced", "XL", "Timings"],
+    "verification": "https://www.youtube.com/watch?v=QKcv8DkNPd0",
+    "percentToQualify": 77,
+    "length": "2m:12s",
+    "records": [
+        {
+            "user": "Dovv1n",
+            "link": "https://www.youtube.com/watch?v=0QYibxUS3rA",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
