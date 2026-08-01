@@ -1,0 +1,37 @@
+{
+    "id": 110816181,
+    "name": "BOOBAWAMBA",
+    "author": "akunakun",
+    "creators": ["akunaakun", "ygg24", "TheLetterV"],
+    "verifier": "EastShark",
+    "tags": "2.2, XL, Memory",
+    "verification": "https://youtu.be/20fYiqLAo_E?si=GjDk49brDMDMvrqL",
+    "percentToQualify": "63",
+    "length": "2m:24s",
+    "records": [
+        {
+            "user": "agnoom",
+            "link": "https://www.youtube.com/watch?v=HMoe9mM3_Zw",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "cbrem",
+            "link": "https://www.youtube.com/watch?v=KDsCVyWbG3w",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Zoink",
+            "link": "https://www.youtube.com/watch?v=DXV7CVkos7I",
+            "percent": 74,
+            "hz": 240
+        },
+      {
+            "user": "WPopoff",
+            "link": "https://www.youtube.com/watch?v=kI7WTN1FIxQ",
+            "percent": 74,
+            "hz": 240
+        }
+    ]
+}
