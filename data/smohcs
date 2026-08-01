@@ -1,0 +1,19 @@
+{
+    "id": 52448794,
+    "name": "smohcs",
+    "author": "durianhead",
+    "creators": ["durianhead"],
+    "verifier": "BlazeRol",
+    "tags": ["1.8", "Long", "Chokepoints", "Ship", "Old Swing"],
+    "verification": "https://youtu.be/buTQOuWPt7s?si=ArmEtr8FfxbXbzik",
+    "percentToQualify": 100,
+    "length": "1m:28s",
+    "records": [
+        {
+            "user": "140 people",
+            "link": "https://youtu.be/dQw4w9WgXcQ?si=Gy7dagz8aXCoEBL4",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
