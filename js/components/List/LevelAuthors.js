@@ -12,6 +12,10 @@ export default {
             type: String,
             required: true,
         },
+        tags: {
+            type: Array,
+            required: false,
+        },
     },
     template: `
         <div class="level-authors">
@@ -48,6 +52,11 @@ export default {
             <p class="type-body">
                 <span>{{ author }}</span>
             </p>
+            </template>
+            <div class="type-title-sm">tags</div>
+            <p class="type-body">
+                <span>{{ tags }}</span>
+                </p>
         </div>
     `,
 
