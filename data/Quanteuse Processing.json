@@ -1,0 +1,22 @@
+{
+    "id": 117692518,
+    "name": "Quanteuse processing",
+    "author": "Renn241",
+    "creators": ["Renn241, BlankB"],
+    "verifier": "Zoink",
+    "tags": "2.2, Gimmicky, Chokepoints, Slow-Paced",
+    "verification": "https://www.youtube.com/watch?v=j5NC0u1Q91Q",
+    "percentToQualify": 60,
+    "length": "1m:13s",
+    "records": [
+        {
+            "user": "dovv1n",
+            "link": "https://www.youtube.com/watch?v=TwkSSBhEnuQ",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "seregiusz",
+            "link": "https://www.youtube.com/watch?v=XfDr6m2hLWo",
+            "percent": 100,
+            "hz": 240
