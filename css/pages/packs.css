@@ -1,1 +1,14 @@
-
+.page-packs .page-packs {
+    background-color: #212121;
+}
+.page-packs .packs-container {
+    background-color: var(--color-background);
+    padding-block: 2rem;
+}
+.page-packs .packs-container {
+    padding-inline: 1rem;
+}
+.page-packs .comingsoon-container .pack {
+    text-align: center;
+    padding-top: 10rem;
+}
