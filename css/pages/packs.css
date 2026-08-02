@@ -14,7 +14,7 @@
 }
 .page-packs .packs-container .packs button {
     background-color: rgb(255,0,0);opacity:0.6;
-    color: rgb(255,0,0);opacity:0.6;
+    color: rgb(255,255,0);opacity:0.6;
     border: none;
     border-radius: 0.5rem;
     padding: 1rem;
