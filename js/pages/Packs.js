@@ -12,7 +12,7 @@ export default {
                 <table class="packs" v-if="packs">
                     <tr v-for="([level, err], i) in pack">
                         <td class="soon">
-                            <p>Coming Soon!</p>
+                            <p>Top 1 Pack</p>
                         </td>
                     </tr>
                 </table>
