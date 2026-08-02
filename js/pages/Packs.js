@@ -20,7 +20,7 @@ export default {
                     <tr>
                         <td class="Two">
                             <button>
-                            Mspan class="type-label-lg">Easy Extreme Pack</span>
+                            <span class="type-label-lg">Easy Extreme Pack</span>
                             </button>
                         </td>
                     </tr>
