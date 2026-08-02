@@ -10,8 +10,6 @@ export default {
         <main v-else class="page-packs">
             <div class="packs-container">
                 <table class="packs">
-                <tr v-for="([packs, err], i) in packs">
-                <td class="packs" :class="{ 'active': selected == i, 'error': !packs }">
                     <tr>
                         <td class="One">
                             <button>
@@ -29,9 +27,8 @@ export default {
                 </table>
             </div>
             <div class="comingsoon-container">
-                <div class="pack">
-                   <h1>
-                   Coming Soon!</h1>
+                <div class="packs" v-if="packs">
+                   <h1>Coming Soon!</h1>
                 </div>
             </div>
       </main>
