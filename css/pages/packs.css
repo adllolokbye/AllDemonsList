@@ -13,7 +13,7 @@
     padding-top: 10rem;
 }
 .page-packs .packs-container .packs button {
-    background-color: var(--color-background);
+    background-color: rgb(255,0,0);opacity:0.6;
     color: var(--color-on-background);
     border: none;
     border-radius: 0.5rem;
