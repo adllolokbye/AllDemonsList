@@ -12,7 +12,9 @@ export default {
                 <table class="packs">
                     <tr>
                         <td class="soon">
-                            <p>Top 1 Pack</p>
+                            <button>
+                            <span class="type-label-lg">Top 1 Pack</span>
+                            </button>
                         </td>
                     </tr>
                 </table>
