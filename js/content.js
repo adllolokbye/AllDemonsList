@@ -35,6 +35,7 @@ export async function fetchList() {
         return null;
     }
 }
+    
 
 export async function fetchEditors() {
     try {
@@ -122,3 +123,10 @@ export async function fetchLeaderboard() {
     // Sort by total score
     return [res.sort((a, b) => b.total - a.total), errs];
 }
+
+const dir = '/Packs';
+
+export async function fetchPacks() {
+    fetch(`${dir}/${path}.json`);
+}
+    
