@@ -11,9 +11,16 @@ export default {
             <div class="packs-container">
                 <table class="packs">
                     <tr>
-                        <td class="soon">
+                        <td class="One">
                             <button>
                             <span class="type-label-lg">Top 1 Pack</span>
+                            </button>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="Two">
+                            <button>
+                            Mspan class="type-label-lg">Easy Extreme Pack</span>
                             </button>
                         </td>
                     </tr>
