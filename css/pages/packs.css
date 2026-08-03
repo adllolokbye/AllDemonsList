@@ -23,6 +23,9 @@
     overflow-wrap: anywhere;
     cursor: pointer;
 }
+.page-packs .packs-container .packs .One checkbox {
+    padding-right: 10px;
+}
 .page-packs .packs-container .packs .One .society {
     padding-top: 2rem;
     height: 40px;
