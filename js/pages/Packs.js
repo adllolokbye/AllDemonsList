@@ -18,12 +18,15 @@ export default {
                             <div class="society">
                               <input type="checkbox" id="society" value="Society" v-model="society">
                               <label for="main">Society</label>
+                            </div>
                             <div class="ts2">
                               <input type="checkbox" id="ts2" value="ts2" v-model="ts2y">
                               <label for="main">Thinking Space II</label>
+                            </div>
                             <div class="amethyst">
                               <input type="checkbox" id="amethyst" value="amethyst" v-model="amethyst">
                               <label for="main">Amethyst</label>
+                            </div>
                         </td>
                     </tr>
                     <tr>
