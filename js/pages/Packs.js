@@ -12,12 +12,18 @@ export default {
                 <table class="packs">
                     <tr>
                         <td class="One">
-                            <button>
-                            <span class="type-label-lg">Top 1 Pack</span>
-                            </button>
-                          <div class="society">
+                                <button>
+                                    <span class="type-label-lg">Top 1 Pack</span>
+                                </button>
+                            <div class="society">
                               <input type="checkbox" id="society" value="Society" v-model="society">
                               <label for="main">Society</label>
+                            <div class="ts2">
+                              <input type="checkbox" id="ts2" value="ts2" v-model="ts2y">
+                              <label for="main">Thinking Space II</label>
+                            <div class="amethyst">
+                              <input type="checkbox" id="amethyst" value="amethyst" v-model="amethyst">
+                              <label for="main">Amethyst</label>
                         </td>
                     </tr>
                     <tr>
