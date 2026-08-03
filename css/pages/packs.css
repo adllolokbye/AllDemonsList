@@ -24,14 +24,15 @@
     cursor: pointer;
 }
 .page-packs .packs-container .packs .One .society {
-    paddingtop: 1rem;
+    paddingtop: 2rem;
     line-height: 20px;
+    text-align: center
 }
 .page-packs .packs-container .packs .One .ts2 {
-    paddingtop: 1rem;
+    paddingtop: 2rem;
     line-height: 20px;
 }
 .page-packs .packs-container .packs .One .amethyst {
-    paddingtop: 1rem;
+    paddingtop: 2rem;
     line-height: 20px;
 }
