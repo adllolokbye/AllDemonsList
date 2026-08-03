@@ -14,6 +14,9 @@ export default {
                         <td class="One">
                             <button>
                             <span class="type-label-lg">Top 1 Pack</span>
+                            <div class="check">
+                                <input type="checkbox" id="society" value="Society" v-model="society">
+                                <label for="main">Society</label>
                             </button>
                         </td>
                     </tr>
