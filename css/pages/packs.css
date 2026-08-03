@@ -24,5 +24,11 @@
     cursor: pointer;
 }
 .page-packs .packs-container .packs .One .society {
-    padding-top: 10rem;
+    paddingtop: 1rem;
+}
+.page-packs .packs-container .packs .One .ts2 {
+    paddingtop: 1rem;
+}
+.page-packs .packs-container .packs .One .amethyst {
+    paddingtop: 1rem;
 }
